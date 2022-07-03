@@ -23,4 +23,32 @@ h1{
 }
 section{
     height: 500px;
+    padding-bottom: 100px;
+}
+.button{
+    text-decoration: none;
+    padding: 6px 8px;
+  background-image: linear-gradient(aqua, blue);
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.linki{
+    text-decoration: none;
+    padding: 6px 8px;
+  background-image: linear-gradient(rgb(104, 138, 202), rgb(11, 101, 165));
+    color: whitesmoke;
+    border-radius: 5px;
+}
+.resum{
+    text-decoration: none;
+    padding: 6px 8px;
+  background-image: linear-gradient(rgb(226, 103, 245), rgb(207, 32, 143));
+    color: whitesmoke;
+    border-radius: 5px;
+
+}
+.dreamban{
+    background-image: url(Images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
