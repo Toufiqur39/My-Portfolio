@@ -12,10 +12,11 @@ h1{
 .top{
     width: 40%;
     float: left;
-    padding-left: 5%;
+    padding-left: 3%;
+    margin: 2%;
 }
 .top img{
-    width: 100%;
+    width: 500px;
 }
 .banner{
     background-image: url(Images/top-banner.png);
@@ -51,4 +52,45 @@ section{
     background-image: url(Images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.Mindset{
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(7, 7, 98);
+}
+.div-high{
+    color: rgb(20, 6, 54);
+    font-size: 15px;
+    text-align: center;
+}
+.box{
+    box-shadow: 10px 10px 40Px gray;
+    padding-right: 30px;
+    height: 300px;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+h2{
+    text-align: center;
+    text-decoration: wavy;
+}
+.experience{
+    background-image: url(Images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#IES{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon, tomato);
+    border-image-slice: 1;
+    
+    
+}
+#Million{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, aqua, blue);
+    border-image-slice: 1;  
+}
+footer h4{
+    text-align: center;
 }
