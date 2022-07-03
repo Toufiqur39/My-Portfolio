@@ -1,5 +1,6 @@
 body{
     font-family: 'Signika', sans-serif;
+    margin: 0px;
 }
 h1{
     font-size: 30px;
@@ -15,4 +16,11 @@ h1{
 }
 .top img{
     width: 100%;
+}
+.banner{
+    background-image: url(Images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
 }
